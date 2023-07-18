@@ -1,8 +1,3 @@
----
-title: obsidian安装和使用说明
-date: 2022-03-13 09:57:43
----
-
 # obsidian_vault_template_for_graduate_student
 
 ### 写在前面
