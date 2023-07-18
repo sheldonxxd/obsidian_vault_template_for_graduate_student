@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#dailynote",
+      "color": {
+        "a": 1,
+        "rgb": 13070326
+      }
+    },
+    {
+      "query": "path:02-Reading/mdnotes",
+      "color": {
+        "a": 1,
+        "rgb": 11924170
+      }
+    },
+    {
+      "query": "path:02-Reading/3-people",
+      "color": {
+        "a": 1,
+        "rgb": 15451397
+      }
+    },
+    {
+      "query": "path:02-Reading/2-topics",
+      "color": {
+        "a": 1,
+        "rgb": 3726463
+      }
+    },
+    {
+      "query": "tag:#WeeklyNote",
+      "color": {
+        "a": 1,
+        "rgb": 714229
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.77176470588235,
+  "lineSizeMultiplier": 0.561176470588235,
+  "collapse-forces": false,
+  "centerStrength": 0.11978021978022,
+  "repelStrength": 9.60302197802198,
+  "linkStrength": 0.568063186813187,
+  "linkDistance": 134,
+  "scale": 0.21063547197395135,
+  "close": false
+}

@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"7e0866ce02dfac37","x":1680,"y":-570,"width":960,"height":990,"type":"group","label":"知识图谱"},
+		{"type":"group","id":"72e038cc69f5548d","x":460,"y":-570,"width":920,"height":980,"label":"使用基础"},
+		{"type":"group","id":"66b208d3b23c4ce9","x":-700,"y":-320,"width":980,"height":480,"label":"安装准备"},
+		{"type":"file","file":"03-Projects/99-使用obsidian搞科研/用obsidian阅读文献.md","id":"990c4ff80c6e1582","x":480,"y":-30,"width":400,"height":400},
+		{"type":"file","file":"03-Projects/99-使用obsidian搞科研/软件下载安装.md","id":"02955472acee0da2","x":-680,"y":-260,"width":400,"height":400},
+		{"type":"file","file":"03-Projects/99-使用obsidian搞科研/zotero-obsidian联动配置.md","id":"b73293d0eb625ebc","x":-140,"y":-260,"width":400,"height":400},
+		{"type":"file","file":"03-Projects/99-使用obsidian搞科研/用obsidian写日志.md","id":"01e16a3f853c38e1","x":480,"y":-510,"width":400,"height":400},
+		{"type":"file","file":"03-Projects/99-使用obsidian搞科研/obsidian撰写草稿.md","id":"3f35d7581336c4db","x":960,"y":-510,"width":400,"height":400},
+		{"type":"file","file":"03-Projects/99-使用obsidian搞科研/试剂耗材仪器建卡管理.md","id":"62185b0d2a682ac9","x":960,"y":-30,"width":400,"height":400},
+		{"type":"file","file":"03-Projects/99-使用obsidian搞科研/obsidian白板教程.md","id":"cc60db8f20f75ec0","x":1700,"y":-500,"width":400,"height":400},
+		{"type":"file","file":"03-Projects/99-使用obsidian搞科研/从白板新建笔记.md","id":"b2707dedbf5a4542","x":1900,"y":0,"width":400,"height":400},
+		{"type":"file","file":"03-Projects/99-使用obsidian搞科研/obsidan双链与知识图谱.md","id":"995ec7c3abc88b4a","x":2160,"y":-430,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"c6ca30621bd39e08","fromNode":"02955472acee0da2","fromSide":"right","toNode":"b73293d0eb625ebc","toSide":"left"},
+		{"id":"a4f83320d383d280","fromNode":"66b208d3b23c4ce9","fromSide":"right","toNode":"72e038cc69f5548d","toSide":"left"},
+		{"id":"f99c6e4425c89d4b","fromNode":"72e038cc69f5548d","fromSide":"right","toNode":"cc60db8f20f75ec0","toSide":"left"},
+		{"id":"82330f73ec29c1ae","fromNode":"cc60db8f20f75ec0","fromSide":"bottom","toNode":"b2707dedbf5a4542","toSide":"top"}
+	]
+}

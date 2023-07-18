@@ -1,0 +1,23 @@
+{
+  "attachmentFolderPath": "08-Assets",
+  "trashOption": "local",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  },
+  "alwaysUpdateLinks": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01-Diary/本周事务",
+  "fileSortOrder": "alphabetical",
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "showInlineTitle": false,
+  "showFrontmatter": true
+}
