@@ -2,7 +2,7 @@
 
 ### 写在前面
 
-从接触到使用 obsidian 已经有一段时间了，感觉这个工具用好了应该对搞科研有较大帮助。在原来的
+从接触到使用 obsidian 已经有一段时间了，感觉这个工具用好了应该对搞科研有较大帮助。在原来的[obsidian_vault_template_for_researcher](https://github.com/sheldonxxd/obsidian_vault_template_for_researcher)项目上进行精简所得。
 
 
 ### 下载并打开vault模板库并查看说明书
